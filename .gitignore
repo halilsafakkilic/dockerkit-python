@@ -1,0 +1,7 @@
+.idea/
+data/db/
+!data/db/.gitkeep
+data/redis/
+!data/redis/.gitkeep
+src/ssl/
+!src/ssl/.gitkeep
